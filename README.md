@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Itamar.K know as iTimeLiGhT</h1>
 
 # 💫 About Me:
-I’m Computer science student and intern in Deep Learning.<br>Looking for my first development role as a Junior.<br>Training technology developer at Planetanya.org.il<br>Lover of technology and computers
+I am a Computer Science student currently interning in Deep Learning.<br>I am eager to transition into my first development role as a Junior Developer.<br>Currently, I am training in technology development at Planetanya.org.il<br>I have a profound passion for technology and computers.
 
 
 # 💻 Skills:
